@@ -1,0 +1,11 @@
+#Conversão da entrada do usuário
+n1 = float(input ("Digite o valor do 1° numero: "))
+n2 = float(input ("Digite o valor do 2° número: "))
+print ("-" * 30)
+print ("Soma:", n1 + n2)
+print ("Subtração:", n1 - n2)
+print ("Multiplicação:", n1 * n2)
+print ("Divisão:", n1 / n2)
+print ("-" * 30)
+print ("Good")
+print ("-" * 30)
